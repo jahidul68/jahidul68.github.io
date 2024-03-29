@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Checking if this is the main page for adding blogs
