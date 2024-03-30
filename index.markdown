@@ -11,7 +11,7 @@ layout: home
 
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
     <div style="width: 50%; text-align: center;">
-        <iframe src="/Notebook.html" style="max-width: 600px; max-height: 600px;">
+        <iframe src="/Notebook.html" width="100%" height="600" frameborder="0"></iframe>
         <p style="font-style: italic;">Caption: Description of the image.</p>
     </div>
 </div>
