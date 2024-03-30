@@ -12,7 +12,7 @@ layout: home
         <p>Changes in socio-economic conditions and community development programs may have also contributed to the decrease in crime rates. Efforts to address poverty, unemployment, and inequality, as well as investments in education, affordable housing, and social services, can have a positive impact on crime prevention by addressing underlying social determinants of criminal behavior.</p>
     </div>
     <div style="width: 50%;">
-        <iframe src="/notebook.html" width="100%" height="600" frameborder="0"></iframe>
+        <iframe src="/Notebook.html" width="100%" height="600" frameborder="0"></iframe>
     </div>
 </div>
 
