@@ -9,7 +9,7 @@ layout: home
     <p>One significant factor contributing to this decline could be improvements in law enforcement strategies and community policing efforts. Over the years, law enforcement agencies in San Francisco may have implemented targeted interventions, crime prevention programs, and proactive policing tactics aimed at reducing crime rates.</p>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <div style="width: 100%; text-align: center;">
         <iframe src="/Notebook.html" width="100%" height="600" frameborder="0"></iframe>
         <p style="font-style: italic;">Caption: Description of the image.</p>
