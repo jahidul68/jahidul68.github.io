@@ -5,14 +5,14 @@
 layout: home
 ---
 <div style="text-align: justify;">
-    <h1>San Francisco Law Enforcement Controlling Drug Rise Over Years!</h1>
+    <h1>San Francisco's Fight Against Drug Crime</h1>
     <p>One significant factor contributing to this decline could be improvements in law enforcement strategies and community policing efforts. Over the years, law enforcement agencies in San Francisco may have implemented targeted interventions, crime prevention programs, and proactive policing tactics aimed at reducing crime rates.</p>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="width: 100%; text-align: center;">
         <iframe src="/Notebook.html" width="100%" height="400" frameborder="0"></iframe>
-        <p style="font-style: italic;">Caption: Description of the image.</p>
+        <p style="font-style: italic;">Caption: Drug/Narcotic rate decreasing over the years.</p>
     </div>
 </div>
 
