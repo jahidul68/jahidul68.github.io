@@ -5,4 +5,4 @@
 layout: home
 ---
 Checking if this is the main page for adding blogs
-<iframe src="/drug.html" width="800" height="600" frameborder="0"></iframe>
+<iframe src="/drug_output.html" width="800" height="600" frameborder="0"></iframe>
