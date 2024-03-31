@@ -13,7 +13,7 @@ layout: home
     <div style="width: 100%; text-align: center;">
         <iframe src="/Notebook.html" width="100%" height="400" frameborder="0"></iframe>
         <p style="font-style: italic;">Drug/Narcotic rate decreasing over the years.</p>
-        <p style="font-color: gray; font-size: 4px;"> though we don't have the data for June-December for 2018, it's clear that the trend is downwards for the last few years</p>
+        <p style="font-color: gray; font-size: 6px;"> though we don't have the data for June-December for 2018, it's clear that the trend is downwards for the last few years</p>
     </div>
 </div>
 
