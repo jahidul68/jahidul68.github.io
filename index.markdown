@@ -18,7 +18,7 @@ layout: home
 </div>
 
 <div style="text-align: justify;">
-    <p>Among the array of initiatives, employing diverse <a href="[url](https://www.kqed.org/stateofhealth/363143/san-franciscos-newest-tool-to-prevent-opioid-overdoses-tests-drugs-starts-conversations)">tools</a> and empowering law enforcement played pivotal roles in effectively controlling the trend.</p>
+    <p>Among the array of initiatives, employing diverse <a href="https://www.kqed.org/stateofhealth/363143/san-franciscos-newest-tool-to-prevent-opioid-overdoses-tests-drugs-starts-conversations">tools</a> and empowering law enforcement played pivotal roles in effectively controlling the trend.</p>
     <p>Changes in socio-economic conditions and community development programs may have also contributed to the decrease in crime rates. Efforts to address poverty, unemployment, and inequality, as well as investments in education, affordable housing, and social services, can have a positive impact on crime prevention by addressing underlying social determinants of criminal behavior.</p>
     <!-- Add more text here -->
 </div>
