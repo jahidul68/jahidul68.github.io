@@ -5,15 +5,15 @@
 layout: home
 ---
 <div style="text-align: justify;">
-    <h1>San Francisco's Fight Against Drug/Narcotic</h1>
-    <p>One significant factor contributing to this decline could be improvements in law enforcement strategies and community policing efforts. Over the years, law enforcement agencies in San Francisco may have implemented targeted interventions, crime prevention programs, and proactive policing tactics aimed at reducing crime rates.</p>
+    <h1><strong>San Francisco's Fight Against Drug/Narcotic</strong></h1>
+    <p> San Francisco was once notorious for its high incidence of drug-related cases, prompting the state to introduce numerous initiatives aimed at curbing the trend. Recent efforts have proven successful, with a noticeable decline in drug-related incidents. Analysis of the data reveals a consistent upward trajectory in the rates from the early 2000s to the 2010s, followed by a significant downturn in recent years.</p>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="width: 100%; text-align: center;">
         <iframe src="/Notebook.html" width="100%" height="400" frameborder="0"></iframe>
-        <p style="font-style: italic;">Drug/Narcotic rate decreasing over the years.</p>
-        <p style="font-color: gray; font-size: 8px;"> though we don't have the data for June-December for 2018, it's clear that the trend is downwards for the last few years</p>
+        <p style="font-style: italic;">Drug/Narcotic rate decreasing over the years.<br> Though we don't have the data for June-December for 2018, it's clear that the trend has been downward for the last few years
+        </p>
     </div>
 </div>
 
