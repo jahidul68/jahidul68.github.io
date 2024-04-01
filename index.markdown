@@ -57,6 +57,6 @@ layout: home
 <p>1. <a href="https://www.nytimes.com/2024/01/31/briefing/san-francisco-addiction.html">New York Times: San Francisco’s “Pro-Drug Culture” </a></p>
 <p>2. <a href="https://www.sfchronicle.com/projects/san-francisco-drug-overdose-deaths/#:~:text=San%20Francisco%20continues%20to%20grapple,of%20the%20synthetic%20opioid%20fentanyl.">San Francisco Chronicle: Drug Overdose Deaths in San Francisco</a></p>
 <p>3. <a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data">San Francisco Crime Dataset</a></p>
-</div>
 <p>4. <a href="https://www.sanfranciscopolice.org/news/sfpd-experiences-continued-success-opiate-overdose-reversals">San Francisco Police Department </a></p>
+</div>
 </div>
