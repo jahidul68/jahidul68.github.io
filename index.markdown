@@ -16,16 +16,6 @@ layout: home
     from incident numbers, categories, descriptions, dates and times, to locations,
     which paints a comprehensive picture of drug related crime dynamics in the city.</p>
 
-    <p>
-
-    First, the calendar-like heatmap helps to understand the overall evolution of drug related incidents from 2003 to 2018. It reveals a decreasing trend in the volume of crimes, with lighter shades indicating lower incident counts. This trend suggests a positive shift in the city's drug landscape, possibly due to a combination of factors such as law enforcement strategies, community programs,
-    and changes in drug usage behaviors. Furthermore, the heatmap does not reveal any distinct seasonal patterns in drug usage, with the data showing a somewhat consistent distribution of activities throughout the year. This uniformity suggests that external factors like weather conditions do not significantly influence the occurrence of drug-related crimes, which could be
-    explained by the geographical position of San Francisco and its relatively stable climate throughout the year.
-
-    </p>
-
-</div>
-
 <div style="display: flex; justify-content: center; align-items: center; font-family: Georgia, 'Times New Roman', Times, serif;">
     <div style="width: 100%; text-align: center;">
         <iframe src="/static/Notebook.html" width="100%" height="465" frameborder="0"></iframe>
@@ -34,11 +24,13 @@ layout: home
     </div>
 </div>
 
+</div>
+
 <div style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif;">
-    <p>One significant factor contributing to this decline could be improvements in law enforcement strategies and community policing efforts. Over the years, law enforcement agencies in San Francisco may have implemented targeted interventions, crime prevention programs, and proactive policing tactics aimed at reducing crime rates.</p>
-    <p>Furthermore, advancements in technology and the use of data analytics may have played a role in crime reduction initiatives. Law enforcement agencies could have leveraged technology to improve crime mapping, predictive modeling, and real-time crime monitoring, allowing for more efficient deployment of resources and strategic interventions to deter criminal activity.</p>
+    <p>San Francisco was once notorious for its high incidence of drug-related cases, prompting the state to introduce numerous initiatives aimed at curbing the trend. Recent efforts have proven successful, with a noticeable decline of crimes. Analysis of the data reveals a consistent upward trajectory in the rates from the early 2000s to the 2010s, followed by a significant downturn in recent years, where lighter shades indicates lower incident counts. This trend suggests a positive shift in the city's drug landscape, possibly due to a combination of factors such as law enforcement strategies, community programs, and changes in drug usage behaviors. Furthermore, the heatmap does not reveal any distinct seasonal patterns in drug usage, with the data showing a somewhat consistent distribution of activities throughout the year. This uniformity suggests that external factors like weather conditions do not significantly influence the occurrence of drug-related crimes, which could be explained by the geographical position of San Francisco and its relatively stable climate throughout the year.</p>
+
+    <p>Among the array of initiatives, employing diverse <a href="https://www.kqed.org/stateofhealth/363143/san-franciscos-newest-tool-to-prevent-opioid-overdoses-tests-drugs-starts-conversations">tools</a> and empowering law enforcement played pivotal roles in effectively controlling the trend.</p>
     <p>Changes in socio-economic conditions and community development programs may have also contributed to the decrease in crime rates. Efforts to address poverty, unemployment, and inequality, as well as investments in education, affordable housing, and social services, can have a positive impact on crime prevention by addressing underlying social determinants of criminal behavior.</p>
-    <!-- Add more text here -->
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; font-family: Georgia, 'Times New Roman', Times, serif;">
