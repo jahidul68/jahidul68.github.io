@@ -30,12 +30,12 @@ layout: home
     <p>San Francisco was once notorious for its high incidence of drug-related cases, prompting the state to introduce numerous initiatives aimed at curbing the trend. Recent efforts have proven successful, with a noticeable decline of crimes. Analysis of the data reveals a consistent upward trajectory in the rates from the early 2000s to the 2010s, followed by a significant downturn in recent years, where lighter shades indicates lower incident counts. This trend suggests a positive shift in the city's drug landscape, possibly due to a combination of factors such as law enforcement strategies, community programs, and changes in drug usage behaviors. Furthermore, the heatmap does not reveal any distinct seasonal patterns in drug usage, with the data showing a somewhat consistent distribution of activities throughout the year. This uniformity suggests that external factors like weather conditions do not significantly influence the occurrence of drug-related crimes, which could be explained by the geographical position of San Francisco and its relatively stable climate throughout the year.</p>
 
     <p>Among the array of initiatives, employing diverse <a href="https://www.kqed.org/stateofhealth/363143/san-franciscos-newest-tool-to-prevent-opioid-overdoses-tests-drugs-starts-conversations">tools</a> and empowering law enforcement played pivotal roles in effectively controlling the trend.</p>
- master
+ 
     <p>Changes in socio-economic conditions and community development programs may have also contributed to the decrease in crime rates. Efforts to address poverty, unemployment, and inequality, as well as investments in education, affordable housing, and social services, can have a positive impact on crime prevention by addressing underlying social determinants of criminal behavior.</p>
 
     <p> Adoption of harm reduction strategies such as needle exchange programs and supervised injection sites could have mitigated the negative effects of drug abuse on the community. Implementation of policies targeting drug trafficking, along with legislative changes related to drug sentencing and promoting rehabilitation programs, may have had a positive impact on reducing drug-related crime rates. </p>
     <!-- Add more text here -->
- master
+ 
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; font-family: Georgia, 'Times New Roman', Times, serif;">
@@ -46,7 +46,7 @@ layout: home
 </div>
 
 <div style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif;">
-    <p>Our exploration focuses on several key substances that have notably influenced the city's drug landscape: cocaine, heroin, methamphetamine, prescription drugs and marijuana. Of these, cocaine stood out for its significant presence, underscoring a nationwide concern that spans years. However, a clear trend of a steady decline in incidents involving these substances can be observed. This downward trajectory suggests a combination of successful law enforcement strategies, community engagement, and possibly, changes in drug usage behaviors. TRY TO FIND SOURCES</p>
+    <p>Our exploration focuses on several key substances that have notably influenced the city's drug landscape: cocaine, heroin, methamphetamine, prescription drugs and marijuana. Of these, cocaine stood out for its significant presence, underscoring a nationwide concern that spans years. However, a clear trend of a steady decline in incidents involving these substances can be observed. This downward trajectory suggests a combination of successful law enforcement strategies, community engagement, and possibly, changes in drug usage behaviors.[4]</p>
 
 
     <p>A particularly intriguing aspect of San Francisco's drug narrative is the story of marijuana. Once a major driver of drug-related incidents, marijuana's path reflects a broader shift in societal attitudes and legal frameworks. The legalization of marijuana in California, marked by Proposition 64 in 2016, catalyzed a dramatic shift, not just in legal terms but also in its impact on drug incident reports. Post-legalization, the data hints at a diminished role for marijuana in the city's drug incident landscape, likely due to the removal of legal penalties for possession and use, coupled with regulated access.</p>.
@@ -57,4 +57,6 @@ layout: home
 <p>1. <a href="https://www.nytimes.com/2024/01/31/briefing/san-francisco-addiction.html">New York Times: San Francisco’s “Pro-Drug Culture” </a></p>
 <p>2. <a href="https://www.sfchronicle.com/projects/san-francisco-drug-overdose-deaths/#:~:text=San%20Francisco%20continues%20to%20grapple,of%20the%20synthetic%20opioid%20fentanyl.">San Francisco Chronicle: Drug Overdose Deaths in San Francisco</a></p>
 <p>3. <a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data">San Francisco Crime Dataset</a></p>
+</div>
+<p>4. <a href="https://www.sanfranciscopolice.org/news/sfpd-experiences-continued-success-opiate-overdose-reversals">San Francisco Police Department </a></p>
 </div>
