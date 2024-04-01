@@ -6,7 +6,7 @@ layout: home
 ---
 <div style="text-align: justify;">
     <h1><strong>San Francisco's Fight Against Drug/Narcotic</strong></h1>
-    <time datetime="2024-04-02">Published On</time>
+    <i class='far fa-clock' style='font-size:24px'> Published: 2nd April, 2024</i>
     <p> San Francisco was once notorious for its high incidence of drug-related cases, prompting the state to introduce numerous initiatives aimed at curbing the trend. Recent efforts have proven successful, with a noticeable decline in drug-related incidents. Analysis of the data reveals a consistent upward trajectory in the rates from the early 2000s to the 2010s, followed by a significant downturn in recent years.</p>
 </div>
 
