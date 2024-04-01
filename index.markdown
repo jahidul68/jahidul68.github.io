@@ -6,6 +6,7 @@ layout: home
 ---
 <div style="text-align: justify;">
     <h1><strong>San Francisco's Fight Against Drug/Narcotic</strong></h1>
+    <time datetime="2024-04-02">Published On</time>
     <p> San Francisco was once notorious for its high incidence of drug-related cases, prompting the state to introduce numerous initiatives aimed at curbing the trend. Recent efforts have proven successful, with a noticeable decline in drug-related incidents. Analysis of the data reveals a consistent upward trajectory in the rates from the early 2000s to the 2010s, followed by a significant downturn in recent years.</p>
 </div>
 
@@ -19,7 +20,7 @@ layout: home
 
 <div style="text-align: justify;">
     <p>Among the array of initiatives, employing diverse <a href="https://www.kqed.org/stateofhealth/363143/san-franciscos-newest-tool-to-prevent-opioid-overdoses-tests-drugs-starts-conversations">tools</a> and empowering law enforcement played pivotal roles in effectively controlling the trend.</p>
-    <p>Changes in socio-economic conditions and community development programs may have also contributed to the decrease in crime rates. Efforts to address poverty, unemployment, and inequality, as well as investments in education, affordable housing, and social services, can have a positive impact on crime prevention by addressing underlying social determinants of criminal behavior.</p>
+    <p> Adoption of harm reduction strategies such as needle exchange programs and supervised injection sites could have mitigated the negative effects of drug abuse on the community. Implementation of policies targeting drug trafficking, along with legislative changes related to drug sentencing and promoting rehabilitation programs, may have had a positive impact on reducing drug-related crime rates. </p>
     <!-- Add more text here -->
 </div>
 
