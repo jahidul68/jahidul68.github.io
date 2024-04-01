@@ -20,7 +20,7 @@ layout: home
     <div style="width: 100%; text-align: center;">
         <iframe src="/static/Notebook.html" width="100%" height="465" frameborder="0"></iframe>
         <p style="font-style: italic;">Drug/Narcotic rate decreasing over the years.</p>
-        <p style="font-color: gray; font-size: 8px;"> Although we don't have the data for June-December for 2018, it's clear that the trend is downwards for the last few years</p>
+        <p style="font-color: gray; font-size: 10px;"> Although the data for June-December for 2018 isn't available, it's clear that the trend has been downwards for the last few years</p>
     </div>
 </div>
 
@@ -58,5 +58,4 @@ layout: home
 <p>2. <a href="https://www.sfchronicle.com/projects/san-francisco-drug-overdose-deaths/#:~:text=San%20Francisco%20continues%20to%20grapple,of%20the%20synthetic%20opioid%20fentanyl.">San Francisco Chronicle: Drug Overdose Deaths in San Francisco</a></p>
 <p>3. <a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data">San Francisco Crime Dataset</a></p>
 <p>4. <a href="https://www.sanfranciscopolice.org/news/sfpd-experiences-continued-success-opiate-overdose-reversals">San Francisco Police Department </a></p>
-</div>
 </div>
