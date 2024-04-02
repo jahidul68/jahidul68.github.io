@@ -32,7 +32,7 @@ layout: home
     the early 2000s to the 2010s, followed by a significant downturn in recent years, where lighter shades indicates
     lower incident counts. This trend suggests a positive shift in the city's drug landscape, possibly due to a
     combination of factors such as <a href="https://www.kqed.org/stateofhealth/363143/san-franciscos-newest-tool-to-prevent-opioid-overdoses-tests-drugs-starts-conversations">
-    raising awereness</a>, law enforcement strategies [8], community programs [7], and changes in drug usage behaviors.</p>
+    raising awereness</a>, law enforcement strategies [7], community programs [6], and changes in drug usage behaviors.</p>
 
 
     <p>Furthermore, the heatmap does not reveal any distinct seasonal patterns in drug usage, with the data showing a
@@ -64,7 +64,7 @@ layout: home
 
     <p>A particularly intriguing aspect of San Francisco's drug narrative is the story of marijuana. Once a major driver
     of drug-related incidents, marijuana's path reflects a broader shift in societal and legal attitudes.
-    The legalization of marijuana in California, marked by Proposition 64 in 2016 [9], catalyzed a dramatic shift, not
+    The legalization of marijuana in California, marked by Proposition 64 in 2016 [8], catalyzed a dramatic shift, not
     just in legal terms but also in its impact on drug incident reports. Post-legalization, the data hints at a
     diminished role for marijuana in the city's drug incident landscape, likely due to the removal of legal
     penalties for possession and use, coupled with regulated access.</p>.
@@ -90,7 +90,7 @@ layout: home
     </p>
 
     <p>
-        Of particular interest is the Tenderloin area, which stands out for its disproportionately high incidence of drug-related crimes across various substances. Over the years, economic struggles have plagued this neighborhood, dating back to the 1960s, leading to pervasive poverty. Known for its open-air drug markets, it has gained notoriety as a hub for drug-related activities. This reputation underscores the area's significance in the realm of drug-related incidents. Moreover, a striking statistic emphasizes its impact: only 53% of individuals apprehended for substance-related offenses during targeted drug market interventions actually reside in San Francisco, highlighting the pervasive issues associated with drug markets in the area. [5][6]
+        Of particular interest is the Tenderloin area, which stands out for its disproportionately high incidence of drug-related crimes across various substances. Over the years, economic struggles have plagued this neighborhood, dating back to the 1960s, leading to pervasive poverty. Known for its open-air drug markets, it has gained notoriety as a hub for drug-related activities. This reputation underscores the area's significance in the realm of drug-related incidents. Moreover, a striking statistic emphasizes its impact: only 53% of individuals apprehended for substance-related offenses during targeted drug market interventions actually reside in San Francisco, highlighting the pervasive issues associated with drug markets in the area. [4][5]
     </p>
 
 </div>
@@ -100,11 +100,11 @@ layout: home
 <p>1. <a href="https://www.nytimes.com/2024/01/31/briefing/san-francisco-addiction.html">New York Times: San Francisco’s “Pro-Drug Culture” </a></p>
 <p>2. <a href="https://www.sfchronicle.com/projects/san-francisco-drug-overdose-deaths/#:~:text=San%20Francisco%20continues%20to%20grapple,of%20the%20synthetic%20opioid%20fentanyl.">San Francisco Chronicle: Drug Overdose Deaths in San Francisco</a></p>
 <p>3. <a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data">San Francisco Crime Dataset</a></p>
-<p>5. <a href="https://www.wbur.org/onpoint/2022/11/02/tenderloin-reality-of-the-drug-trade-in-san-francisco">The reality of the drug trade in San Francisco </a></p>
-<p>6. <a href="https://www.sf.gov/news/san-francisco-releases-new-numbers-showing-almost-half-those-cited-public-drug-use-dont-live">San Francisco Releases New Numbers Showing Almost Half of those Cited for Public Drug Use Don't Live in the City </a></p>
-<p>7. <a href="https://www.brennancenter.org/our-work/analysis-opinion/community-organizations-have-important-role-lowering-crime-rates">Community Organizations Have an Important Role in Lowering Crime Rates </a></p>
-<p>8. <a href="https://www.sf.gov/news/san-francisco-issues-six-month-update-operation-dismantle-open-air-drug-markets">Operation to Dismantle Open-Air Drug Markets </a></p>
-<p>9. <a href="https://www.courts.ca.gov/prop64.htm#:~:text=Effective%20November%209%2C%202016%2C%20Proposition,sealing%20of%20prior%2C%20eligible%20marijuana%2D">Proposition 64 </a></p>
+<p>4. <a href="https://www.wbur.org/onpoint/2022/11/02/tenderloin-reality-of-the-drug-trade-in-san-francisco">The reality of the drug trade in San Francisco </a></p>
+<p>5. <a href="https://www.sf.gov/news/san-francisco-releases-new-numbers-showing-almost-half-those-cited-public-drug-use-dont-live">San Francisco Releases New Numbers Showing Almost Half of those Cited for Public Drug Use Don't Live in the City </a></p>
+<p>6. <a href="https://www.brennancenter.org/our-work/analysis-opinion/community-organizations-have-important-role-lowering-crime-rates">Community Organizations Have an Important Role in Lowering Crime Rates </a></p>
+<p>7. <a href="https://www.sf.gov/news/san-francisco-issues-six-month-update-operation-dismantle-open-air-drug-markets">Operation to Dismantle Open-Air Drug Markets </a></p>
+<p>8. <a href="https://www.courts.ca.gov/prop64.htm#:~:text=Effective%20November%209%2C%202016%2C%20Proposition,sealing%20of%20prior%2C%20eligible%20marijuana%2D">Proposition 64 </a></p>
 
 <h2>Contributions</h2>
 <p>Ting Hui Cheng (s232855): Map plot + text</p>
