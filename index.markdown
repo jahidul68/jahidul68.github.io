@@ -67,7 +67,7 @@ layout: home
     The legalization of marijuana in California, marked by Proposition 64 in 2016 [8], catalyzed a dramatic shift, not
     just in legal terms but also in its impact on drug incident reports. Post-legalization, the data hints at a
     diminished role for marijuana in the city's drug incident landscape, likely due to the removal of legal
-    penalties for possession and use, coupled with regulated access.</p>.
+    penalties for possession and use, coupled with regulated access.</p>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; font-family: Georgia, 'Times New Roman', Times, serif;">
