@@ -19,7 +19,7 @@ layout: home
 <div style="display: flex; justify-content: center; align-items: center; font-family: Georgia, 'Times New Roman', Times, serif;">
     <div style="width: 100%; text-align: center;">
         <iframe src="/static/Notebook.html" width="100%" height="465" frameborder="0"></iframe>
-        <p style="font-style: italic;">Drug/Narcotic rate decreasing over the years.</p> <p style="font-color: #808080;>  Although the data for June-December for 2018 isn't available, it's clear that the trend has been downwards for the last few years</p>
+        <p style="font-style: italic;">Drug/Narcotic rate decreasing over the years.</p> <p style="color: #808080;">Although the data for June-December for 2018 isn't available, it's clear that the trend has been downwards for the last few years</p>
         </div>
 </div>
 
