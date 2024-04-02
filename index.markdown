@@ -52,6 +52,19 @@ layout: home
     <p>A particularly intriguing aspect of San Francisco's drug narrative is the story of marijuana. Once a major driver of drug-related incidents, marijuana's path reflects a broader shift in societal attitudes and legal frameworks. The legalization of marijuana in California, marked by Proposition 64 in 2016, catalyzed a dramatic shift, not just in legal terms but also in its impact on drug incident reports. Post-legalization, the data hints at a diminished role for marijuana in the city's drug incident landscape, likely due to the removal of legal penalties for possession and use, coupled with regulated access.</p>.
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center; font-family: Georgia, 'Times New Roman', Times, serif;">
+    <div style="width: 100%; text-align: center;">
+        <iframe src="/static/category.html" width="600" height="450" frameborder="0"></iframe>
+        <p style="font-style: italic;">Comparison of the two most prevalent drugs: Cocaine and Marijuana, across various San Francisco areas.</p>
+    </div>
+</div>
+
+<div style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif;">
+    <p>
+        To provide a closer insight, we analyze the distribution of drug-related incidents across San Francisco, focusing on two prominent substances: cocaine and marijuana. The data shows that cocaine-related incidents are more centralized, indicating concentrated activity in specific neighborhoods. In contrast, marijuana-related incidents are more dispersed throughout the city post-legalization, highlighting the impact of policy changes on the city's drug incident reports.
+    </p>
+</div>
+
 <div style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif;">
 <h2>References</h2>
 <p>1. <a href="https://www.nytimes.com/2024/01/31/briefing/san-francisco-addiction.html">New York Times: San Francisco’s “Pro-Drug Culture” </a></p>
