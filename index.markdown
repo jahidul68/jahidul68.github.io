@@ -54,15 +54,20 @@ layout: home
 
 <div style="display: flex; justify-content: center; align-items: center; font-family: Georgia, 'Times New Roman', Times, serif;">
     <div style="width: 100%; text-align: center;">
-        <iframe src="/static/category.html" width="600" height="450" frameborder="0"></iframe>
+        <iframe src="/static/category.html" width="600" height="700" frameborder="0"></iframe>
         <p style="font-style: italic;">Comparison of the two most prevalent drugs: Cocaine and Marijuana, across various San Francisco areas.</p>
     </div>
 </div>
 
 <div style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif;">
     <p>
-        To provide a closer insight, we analyze the distribution of drug-related incidents across San Francisco, focusing on two prominent substances: cocaine and marijuana. The data shows that cocaine-related incidents are more centralized, indicating concentrated activity in specific neighborhoods. In contrast, marijuana-related incidents are more dispersed throughout the city post-legalization, highlighting the impact of policy changes on the city's drug incident reports.
+        In our investigation into San Francisco's drug scene, we've focused on two significant substances: cocaine and marijuana. Spanning from the early 2000s to the 2010s, this analysis reveals compelling trends in the distribution of drug-related incidents across the city. The data, presented in a logarithmic scale, highlights a distinct pattern: both cocaine and marijuana-related incidents are more prevalent in the central areas of San Francisco Cocaine incidents exhibit a pronounced concentration in particular neighborhoods, while marijuana-related offenses sprawl more widely across the city, particularly post-legalization.
     </p>
+
+    <p>
+        Of particular interest is the Tenderloin area, which stands out for its disproportionately high incidence of drug-related crimes across various substances. Over the years, economic struggles have plagued this neighborhood, dating back to the 1960s, leading to pervasive poverty. Known for its open-air drug markets, it has gained notoriety as a hub for drug-related activities. This reputation underscores the area's significance in the realm of drug-related incidents. Moreover, a striking statistic emphasizes its impact: only 53% of individuals apprehended for substance-related offenses during targeted drug market interventions actually reside in San Francisco, highlighting the pervasive issues associated with drug markets in the area. [5][6]
+    </p>
+
 </div>
 
 <div style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif;">
@@ -71,4 +76,6 @@ layout: home
 <p>2. <a href="https://www.sfchronicle.com/projects/san-francisco-drug-overdose-deaths/#:~:text=San%20Francisco%20continues%20to%20grapple,of%20the%20synthetic%20opioid%20fentanyl.">San Francisco Chronicle: Drug Overdose Deaths in San Francisco</a></p>
 <p>3. <a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry/about_data">San Francisco Crime Dataset</a></p>
 <p>4. <a href="https://www.sanfranciscopolice.org/news/sfpd-experiences-continued-success-opiate-overdose-reversals">San Francisco Police Department </a></p>
+<p>5. <a href="https://www.wbur.org/onpoint/2022/11/02/tenderloin-reality-of-the-drug-trade-in-san-francisco">The reality of the drug trade in San Francisco </a></p>
+<p>6. <a href="https://www.sf.gov/news/san-francisco-releases-new-numbers-showing-almost-half-those-cited-public-drug-use-dont-live">San Francisco Releases New Numbers Showing Almost Half of those Cited for Public Drug Use Don't Live in the City </a></p>
 </div>
