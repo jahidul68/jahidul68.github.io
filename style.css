@@ -342,6 +342,81 @@ main {
   max-width: 65ch;
 }
 
+/* Thesis */
+.thesis {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  margin-top: 14px;
+  padding: 14px 16px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--surface);
+  max-width: 65ch;
+}
+
+.thesis svg {
+  width: 20px;
+  height: 20px;
+  flex: none;
+  margin-top: 2px;
+  color: var(--accent);
+}
+
+.thesis-label {
+  display: block;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--accent-2);
+  margin-bottom: 4px;
+}
+
+.thesis-title {
+  margin: 0;
+  color: var(--text);
+  font-size: 0.96rem;
+  line-height: 1.5;
+}
+
+/* Mini courses (nested inside a timeline entry) */
+.mini-courses {
+  margin-top: 14px;
+  max-width: 65ch;
+}
+
+.mini-courses-label {
+  display: block;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--accent-2);
+  margin-bottom: 8px;
+}
+
+.mini-course-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.mini-course-list a {
+  font-size: 0.78rem;
+  padding: 5px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-dim);
+  transition: border-color 0.2s, color 0.2s;
+}
+
+.mini-course-list a:hover {
+  border-color: var(--accent);
+  color: var(--text);
+}
+
 /* Tags */
 .tags {
   display: flex;
