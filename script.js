@@ -1,3 +1,22 @@
+<script>
+document.querySelectorAll('a[href^="#"]').forEach(link => {
+  link.addEventListener('click', function (e) {
+    e.preventDefault();
+
+    const target = document.querySelector(this.getAttribute('href'));
+
+    if (target) {
+      target.scrollIntoView({
+        behavior: 'smooth'
+      });
+
+      // Remove the #section from the URL
+      history.pushState(null, '', window.location.pathname);
+    }
+  });
+});
+</script>
+
 document.getElementById('year').textContent = new Date().getFullYear();
 const text = "Hi, I am Md Jahidul Islam";
 const typingElement = document.getElementById("typing-text");
