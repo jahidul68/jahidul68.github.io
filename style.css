@@ -28,12 +28,22 @@ h1, h2, h3, .logo, .nav-cta {
   font-family: 'Space Grotesk', 'Inter', sans-serif;
 }
 
-#typing-text::after {
-    content: "|";
-    animation: blink 0.7s infinite;
-}
 #typing-text {
-  color: transparent;
+  color: white; /* change this to whatever color you want */
+}
+
+#typing-text::after {
+  content: "|";
+  animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+  0%, 50% {
+    opacity: 1;
+  }
+  51%, 100% {
+    opacity: 0;
+  }
 }
 
 @keyframes blink {
