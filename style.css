@@ -32,6 +32,9 @@ h1, h2, h3, .logo, .nav-cta {
     content: "|";
     animation: blink 0.7s infinite;
 }
+#typing-text {
+  color: transparent;
+}
 
 @keyframes blink {
     50% {
