@@ -2,15 +2,16 @@ document.querySelectorAll('a[href^="#"]').forEach(link => {
   link.addEventListener('click', function (e) {
     e.preventDefault();
 
-    const target = document.querySelector(this.getAttribute('href'));
+    const targetId = this.getAttribute('href');
+    const target = document.querySelector(targetId);
 
     if (target) {
       target.scrollIntoView({
         behavior: 'smooth'
       });
 
-      // Remove the #section from the URL
-      history.pushState(null, '', window.location.pathname);
+      // Remove hash from URL
+      window.history.replaceState(null, '', window.location.pathname);
     }
   });
 });
