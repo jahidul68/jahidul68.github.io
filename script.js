@@ -1,4 +1,3 @@
-<script>
 document.querySelectorAll('a[href^="#"]').forEach(link => {
   link.addEventListener('click', function (e) {
     e.preventDefault();
@@ -15,7 +14,6 @@ document.querySelectorAll('a[href^="#"]').forEach(link => {
     }
   });
 });
-</script>
 
 document.getElementById('year').textContent = new Date().getFullYear();
 const text = "Hi, I am Md Jahidul Islam";
