@@ -1,4 +1,18 @@
 document.getElementById('year').textContent = new Date().getFullYear();
+const text = "Hi, I am Md Jahidul Islam";
+const typingElement = document.getElementById("typing-text");
+
+let index = 0;
+
+function typeText() {
+    if (index < text.length) {
+        typingElement.textContent += text.charAt(index);
+        index++;
+        setTimeout(typeText, 80);
+    }
+}
+
+typeText();
 
 const navToggle = document.getElementById('navToggle');
 const navLinks = document.getElementById('navLinks');
